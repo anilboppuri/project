@@ -1,0 +1,3 @@
+class hello extends Object{
+
+}
